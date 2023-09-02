@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #e9a252, #fcdeb6); 
+}
+
+.container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    height: 90vh; 
+}
+
+.Login, .Signup {
+    background-color: #ffffff;
+    padding: 30px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    text-align: center;
+    width: 40%; 
+}
+
+.Login {
+    margin-left: 30px; 
+}
+
+.Signup {
+    margin-right: 30px; 
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #f1c329;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f1c329;
+}
+.OvercastMenu {
+    position: relative; 
+    text-align: center; 
+    padding: 10px; 
+}
+
+.logo {
+    width: 10%;
+    height: 30%;
+}

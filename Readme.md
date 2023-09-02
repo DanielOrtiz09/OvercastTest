@@ -4,7 +4,7 @@ Prueba: **Desarrollador**
 
 Deadline: **36 horas naturales**
 
-Nombre completo: **Aquí va tu nombre**
+Nombre completo: Daniel Gerardo Ortiz Garza
 
 ## Clona y crea tu repositorio para la evaluación
 
